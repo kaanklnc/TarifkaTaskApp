@@ -16,4 +16,4 @@ Aşağıda, uygulamanın bazı ekran görüntüleri yer almaktadır:
 ![Kategori Seçimi](assets/screenshots/tarifka_3.png)
 
 ### Detay Sayfası
-![Kategori Seçimi](assets/screenshots/tarifka_4.png)
+![Kategori Seçimi](assets/screenshots/tarifka_4.png) 
