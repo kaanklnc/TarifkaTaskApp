@@ -7,13 +7,13 @@ Bu proje, yemek tarifleri uygulaması olup, kategoriler, yemek detayları ve tar
 Aşağıda, uygulamanın bazı ekran görüntüleri yer almaktadır:
 
 ### Ana Sayfa
-![Ana Sayfa](assets/screenshots/tarifka1.png)
+![Ana Sayfa](assets/screenshots/tarifka_1.png)
 
 ### Yemek Detayı
-![Yemek Detayı](assets/screenshots/tarifka2.png)
+![Yemek Detayı](assets/screenshots/tarifka_2.png)
 
 ### Kategori Seçimi
-![Kategori Seçimi](assets/screenshots/tarifka3.png)
+![Kategori Seçimi](assets/screenshots/tarifka_3.png)
 
 ### Detay Sayfası
-![Kategori Seçimi](assets/screenshots/tarifka4.png)
+![Kategori Seçimi](assets/screenshots/tarifka_4.png)
